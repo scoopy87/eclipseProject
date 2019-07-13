@@ -5,4 +5,11 @@ public class Test4 {
 	public Test4(int a) {
 		this.a = a;
 	}
+	
+	long b;
+	public Test4(long b) {
+		this.b = b;
+	}
+	
+	
 }
