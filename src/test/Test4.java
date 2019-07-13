@@ -15,5 +15,10 @@ public class Test4 {
 		this.b = b;
 	}
 	
+	double d;
+	public Test4(double d) {
+		this.d = d;
+	}
+	
 	
 }
