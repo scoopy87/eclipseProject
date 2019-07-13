@@ -16,5 +16,7 @@ public class Test4 {
 		this.c = c;
 	}
 	
-	
+	public void killHoria(){
+		System.out.println("Horia will die, eventually!");
+	}
 }
